@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:8
 
 RUN useradd -ms /bin/bash odoo
 
